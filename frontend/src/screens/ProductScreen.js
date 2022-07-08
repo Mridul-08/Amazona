@@ -12,7 +12,7 @@ export default function ProductScreen(props) {
         return <div> Product Not Found</div>;
       }
       return (
-        <div>
+        <div> 
           <Link to="/">Back to result</Link>
           <div className="row top">
             <div className="col-2">
